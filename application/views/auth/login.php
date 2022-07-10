@@ -92,7 +92,7 @@
 	<div class="login-box maxmax">
 
 		<div class="logo">
-			<img src="<?= base_url(); ?>assets/login/img/apoteker.png" style="margin-bottom:20px; width:120px; height:120px; position: relative;" class="responsive-image center-block">
+			<img src="<?= base_url(); ?>assets/login/img/logo-klinik.png" style="margin-bottom:20px; width:120px; height:120px; position: relative;" class="responsive-image center-block">
 			<a href="javascript:void(0);"><b style="font-size: 40px">APOTEKER</b></a>
 			<small style="font-size: 17px">GUDANG APOTEKER KOTA PALEMBANG</small>
 		</div>
