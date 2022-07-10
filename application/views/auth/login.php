@@ -93,8 +93,8 @@
 
 		<div class="logo">
 			<img src="<?= base_url(); ?>assets/login/img/logo-klinik.png" style="margin-bottom:20px; width:120px; height:120px; position: relative;" class="responsive-image center-block">
-			<a href="javascript:void(0);"><b style="font-size: 40px">APOTEKER</b></a>
-			<small style="font-size: 17px">GUDANG APOTEKER KOTA PALEMBANG</small>
+			<a href="javascript:void(0);"><b style="font-size: 40px">INVENTARIS OBAT</b></a>
+			<small style="font-size: 17px">KLINIK MITRA 24 JAM PENGGILINGAN</small>
 		</div>
 
 		<div class="card" style="border-radius: 25px !important;">
