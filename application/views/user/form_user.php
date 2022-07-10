@@ -24,7 +24,7 @@
             <section class="content">
             	<div class="container-fluid">
             		<div class="block-header">
-            			<h2>APOTEKER MANAJEMEN USER</h2>
+            			<h2>Daftar Pengguna</h2>
             		</div>
 
             		<!-- Input -->
@@ -33,7 +33,7 @@
             				<div class="card">
             					<div class="header">
             						<h2 style="font-weight: bold;color: #ad1455;font-size: 22px;">
-            							<center>FORM USER ADMIN APOTEKER</center>
+            							<center>Daftar Pengguna</center>
             							<br>
             						</h2>
             					</div>
