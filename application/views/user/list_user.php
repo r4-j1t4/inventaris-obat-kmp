@@ -22,7 +22,7 @@
     <section class="content">
     	<div class="container-fluid">
     		<div class="block-header">
-    			<h2>APOTEKER MANAJEMEN USER</h2>
+    			<h2>Daftar Pengguna</h2>
     		</div>
 
     		<!-- Basic Examples -->
@@ -31,7 +31,7 @@
     				<div class="card">
     					<div class="header">
     						<h2 style="font-size: 22px;color:#ad1455;font-weight: bold;">
-    							<center>LIST USER ADMIN APOTEKER</center>
+    							<center>Daftar Pengguna</center>
     						</h2> <br><br>
     						<a href="<?= base_url(); ?>User/add/">
     							<button type="button" class="btn btn-info waves-effect">
