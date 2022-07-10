@@ -22,7 +22,7 @@
     <section class="content">
     	<div class="container-fluid">
     		<div class="block-header">
-    			<h2>APOTERKER OBAT</h2>
+    			<h2>LIST STOK OBAT</h2>
     		</div>
 
     		<!-- Basic Examples -->
@@ -31,7 +31,7 @@
     				<div class="card">
     					<div class="header">
     						<h2 style="font-size: 22px;color:#ad1455;font-weight: bold;">
-    							<center>LIST OBAT</center>
+    							<center>LIST STOK OBAT</center>
     						</h2> <br><br>
     						<?php if ($this->session->userdata('status') != 1) : ?>
     							<a href="<?= base_url(); ?>Obat/add">
