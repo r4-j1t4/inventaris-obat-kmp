@@ -115,7 +115,7 @@
     				&copy; 2022 <a href="javascript:void(0);">Dibuat Oleh Hafiz</a>.
     			</div>
     			<div class="version">
-    				<b>Version: </b> 1.5
+    				<b>Version: </b> 2.0
     			</div>
     		</div>
     		<!-- #Footer -->
