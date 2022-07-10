@@ -74,8 +74,8 @@
     											<td><?= get_nama_kategori_by_id($o['id_kategori']) ?></td>
     											<td><?= $o['nama_obat'] ?></td>
     											<td><?= $o['stok'] . " " . get_nama_satuan_by_id($o['id_satuan'])  ?></td>
-    											<td>Rp. <?= number_format($o['harga_jual']) ?></td>
     											<td>Rp. <?= number_format($o['harga_beli']) ?></td>
+    											<td>Rp. <?= number_format($o['harga_jual']) ?></td>
     											<td><?= $o['created_at'] ?></td>
 
     											<td style="text-align: center;vertical-align: middle;">
