@@ -102,7 +102,7 @@
     					<li class="<?php echo ($title == 'user') ? 'active' : ''; ?>">
     						<a href="<?= base_url(); ?>User">
     							<i class=" material-icons">local_library</i>
-    							<span>Managment_user</span>
+    							<span>Pengguna</span>
     						</a>
     					</li>
     				<?php endif; ?>
