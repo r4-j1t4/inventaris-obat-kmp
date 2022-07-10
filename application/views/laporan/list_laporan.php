@@ -9,7 +9,7 @@
 <section class="content">
 	<div class="container-fluid">
 		<div class="block-header">
-			<h2>LAPORAN APOTEKER</h2>
+			<h2>LAPORAN STOK OBAT</h2>
 		</div>
 		<!-- Exportable Table -->
 		<div class="row clearfix">
@@ -60,7 +60,7 @@
 				<div class="card">
 					<div class="header">
 						<h2 style="font-size: 22px;color:#ad1455;font-weight: bold;">
-							LAPORAN APOTEKER
+							LAPORAN STOK OBAT KLINIK
 						</h2><br>
 					</div>
 					<div class="body">
