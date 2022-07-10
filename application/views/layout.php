@@ -8,7 +8,7 @@
 	<?php if ($this->uri->segment(1) == 'Laporan') : ?>
 		<title>Laporan Transaksi Keluar Masuk Obat</title>
 	<?php else : ?>
-		<title>Welcome To | Admin Apoteker</title>
+		<title>Welcome To Hafiz Website</title>
 
 	<?php endif; ?>
 
