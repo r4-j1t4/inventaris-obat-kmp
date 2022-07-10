@@ -22,7 +22,7 @@
     <section class="content">
     	<div class="container-fluid">
     		<div class="block-header">
-    			<h2>APOTERKER SATUAN</h2>
+    			<h2>DAFTAR SATUAN OBAT</h2>
     		</div>
 
     		<!-- Basic Examples -->
@@ -31,7 +31,7 @@
     				<div class="card">
     					<div class="header">
     						<h2 style="font-size: 22px;color:#ad1455;font-weight: bold;">
-    							<center>LIST SATUAN</center>
+    							<center>DAFTAR SATUAN OBAT</center>
     						</h2> <br><br>
     						<a href="<?= base_url(); ?>Satuan/add">
     							<button type="button" class="btn btn-info waves-effect">
